@@ -1,0 +1,2 @@
+# Roll-book-based-on-student-s-grades-
+Enter the program's number from the user and run the program.  In the program, you can use the program.  First, enter student information and add it to the list (school number, name, test score and homework score)  Second, enter your student number and remove it from the list.  Third, print out the list in order of student numbers.  Fourth, print the list in order of total score (test score + sum of two homework scores) (from information of students with large total score to low score)  Fifth, shut down the program.  ​
